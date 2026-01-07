@@ -1,6 +1,6 @@
 ### Hi, I'm Muklis 👋
 
-[![wakatime](https://wakatime.com/badge/user/2e277025-0094-429c-8889-5eb0c7c2b88d.svg)](https://wakatime.com/@2e277025-0094-429c-8889-5eb0c7c2b88d)
+[![wakatime](https://wakatime.com/badge/user/d6979e64-a548-4d81-9d43-6fced6b5ee1d.svg)](https://wakatime.com/@d6979e64-a548-4d81-9d43-6fced6b5ee1d)
 
 <a href="https://github.com/fmuklis">
   <img
